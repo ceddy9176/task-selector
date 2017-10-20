@@ -1,0 +1,32 @@
+#header {
+  display: block;
+  height: 100px;
+  padding: 30px 50px 10px 75px;
+  font-family: arial;
+  text-align: center;
+
+}
+
+#logo {
+  margin-left: auto;
+  align-self: auto;
+  background-color: #F0F0F0;
+
+}
+
+img {
+  width: 200px;
+  height: auto;
+  padding-left: 10px;
+  padding-top: 10px;
+}
+
+#intro {
+  padding-left: 150px;
+  padding-right: 150px;
+  text-align: center;
+}
+
+hr {
+  width: 90%;
+}
