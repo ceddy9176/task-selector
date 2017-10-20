@@ -4,33 +4,30 @@
     <meta charset="utf-8">
     <link rel="icon" type="image/png" sizes="16x16" href="img/favicon-16x16.png">
     <title>Epicodus track quiz</title>
-    <link rel="stylesheet" href="css/boostrap.css" type="text/css">
-    <link rel="stylesheet" href="css/styles.css" type="text/css">
-    <script src="js/jquery-3.2.1.js "type="text/javascript"></script>
-    <script src="js/bootstrap.js" type="text.javascript"></script>
-    <script src="js/scripts.js" type="text/javascript"></script>
-    <link href="#" rel="stylesheet">
-    </script>
+    <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
+    <link href="css/styles.css" rel="stylesheet" type="text/css">
+    <script src="js/jquery-3.2.1.js"></script>
+    <script src="js/bootstrap.js"></script>
+    <script src="js/scripts.js"></script>
   </head>
   <body>
-      <div class="container">
-        <div id="logo">
-          <img src="img/epicodus.png" alt="logo for epicodus">
-          <br>
-        </div>
+    <div id="logo">
+      <img src="img/epicodus.png" alt="logo for epicodus">
+      <br>
+    </div>
+      <div class="container"
         <div id="header">
           <h1>Track quiz</h1>
-          <p>| Which coding spectrum should you be doing? |</p>
+          <h4>| Which coding spectrum should you be doing? |</h4>
         </div>
       </div>
-    <div class="container fluid">
+    <div class="container fluid" id="form">
       <div class="row">
         <div class="col-md-12" id="intro">
           <p>Epicodus offers many differnet courses, ofter the students that enroll are often unsure of what they want to take after finishing the Into to programming class. Now if your a student or anyone else who doesn't quite know what language you want to learn, this short survey could help you decide.</p>
           <hr>
         </div>
       </div>
-    </div>
       <!-- name goes here -->
       <form id="trackQuiz" class="form-group" action="index.html" method="post">
         <div class="name">
@@ -140,7 +137,7 @@
         <div class="row">
           <div class="container-fluid">
             <div class="btn-group" id="centerbutton">
-              <button id="submit" class="btn" data-toggle="modal" data-target="#my-modal">Click here to find your track!</button>
+              <button id="submit" class="btn btn-dark" data-toggle="modal" data-target="#my-modal">Click here to find your track!</button>
       <!-- button closes -->
             </div>
           </div>
