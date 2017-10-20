@@ -17,6 +17,7 @@ body {
   background-color: #F0F0F0;
   font-family: 'raleway',sans-serif;
 }
+
 img {
   width: 200px;
   height: auto;
@@ -50,6 +51,7 @@ h3 {
   background-color: #53585D;
   color: white;
 }
+
 .img-responsive {
   width: 35%;
   display: inline-block;
@@ -68,10 +70,12 @@ h3 {
 p {
   text-indent: 50px;
 }
+
 h4 {
   font-size: 15px;
   text-align: center;
 }
+
 .form-control {
   width: 30%;
 }

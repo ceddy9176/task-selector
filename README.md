@@ -10,7 +10,7 @@ _This webpage consists of a Track Selector quiz to help you decide which program
 
 * Clone the repository to your Desktop.
 * Open the html file in your preferred browser.
-* Or you can click on this link http://ceddy9176.github.io/taskSelector.
+* Or you can click on this link http://ceddy9176.github.io/task-selector.
 
 _This requires a Desktop and a web browser_
 
