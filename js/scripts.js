@@ -25,8 +25,8 @@ $(document).ready(function(){
       trackDescription = "Congragulations looks like your a perfect fit for Ruby, it is a favorite language of many developers building interactive web apps. If an app involves users making accounts, or entering information and interacting with dynamic content, there's a good chance it is built with Ruby. Ruby became popular because of the Rails framework, which is written with Ruby it simplified many of the common tasks associated with building web apps. It's most popular with startups and smaller companies who are looking to build their product quickly.";
       var trackPhoto = "img/ruby.png"
     } else {
-      track = "nothing for you..."
-      trackDescription = "Uh oh, it dosent look like your meant be a developer, instead heres a picture of a cat ";
+      track = "nothing"
+      trackDescription = "You dont need to do anything, it dosent look like your meant be a developer, instead heres a picture of a cat ";
       var trackPhoto = "img/cat.jpg"
 
     }
